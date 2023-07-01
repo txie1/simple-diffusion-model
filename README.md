@@ -1,7 +1,7 @@
 # Simple Implementation of Diffusion Models
 
 ### 1. Sprite Model
-- Course by OpenAI: [How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
+- Course by DeepLearning.AI: [How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
 - [Code](https://github.com/Ryota-Kawamura/How-Diffusion-Models-Work/tree/main) in Jupyter notebook
 
 ### 2. Simple Denoising Diffusion
