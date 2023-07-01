@@ -8,4 +8,4 @@
 - Minimal implementation of a denoising diffusion unconditional image generation model in PyTorch
 - Oxford Flowers dataset
 - Includes DDIM scheduler and the UNet architecture with residual connections and Attention layers.
-- [Link](https://github.com/filipbasara0/simple-diffusion)
+- [simple-diffusion](https://github.com/filipbasara0/simple-diffusion) by filipbasara0
